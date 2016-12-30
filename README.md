@@ -2,14 +2,14 @@
 
 The result of one interesting Online course "Responsive Web Design Course"
 
-#Features:  PART A
-##1. Fluid layouts & images, Media queries   
-##2. HTML5 & CSS3 Stucture
-##3. Media Queries - Style for all screen sizes & devices
-##    -Phones
-##    -Tablets
-##    -Desktop
-##    -TV & Big screens
+##Features:  PART A
+###1. Fluid layouts & images, Media queries   
+###2. HTML5 & CSS3 Stucture
+###3. Media Queries - Style for all screen sizes & devices
+###    -Phones
+###    -Tablets
+###    -Desktop
+###    -TV & Big screens
   
  
  PART B:
